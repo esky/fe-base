@@ -1,6 +1,5 @@
 import React from 'react';
 import { render } from 'react-dom';
-import Hello from './Hello';
 import Module from './module';
 
 const styles = {
@@ -10,6 +9,7 @@ const styles = {
 
 const App = () => (
   <div style={styles}>
+    <h1>fego大前端</h1>
     <Module />
   </div>
 );
