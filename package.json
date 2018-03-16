@@ -1,8 +1,8 @@
 {
-  "name": "",
+  "name": "esky-fe-base",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "前端基础学习指南",
+  "keywords": ["前端基础"],
   "homepage": "https://codesandbox.io/s/new",
   "main": "src/index.js",
   "dependencies": {
